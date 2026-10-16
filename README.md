@@ -22,7 +22,7 @@ Designed for use in the Capstone Project security assessment, this tool helps id
 - **Detailed Reporting:** Provides clear output indicating which payloads were reflected, the specific parameter vulnerable, and the HTTP status code returned.
 - **Error Handling:** Robust handling of network errors, timeouts, and invalid URLs.
 
-## 📋 Technical Details
+##  Technical Details
 - **Language:** Python 3
 - **Libraries:** `requests`, `urllib.parse`, `sys`
 - **OS Compatibility:** Linux (Kali, Ubuntu), macOS, Windows
